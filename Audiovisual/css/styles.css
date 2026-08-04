@@ -31,8 +31,10 @@
   --ink-faint: #a3a3a3;
 }
 
-/* Textos en inglés: título del recurso en Balto bold italic, anglicismos sueltos en el cuerpo en Inter italic */
-.en-title { font-weight: 700; font-style: italic; }
+/* Textos en inglés: en la lista (columna izquierda) solo cursiva, sin negrita; en la ficha de detalle (columna derecha) se mantiene negrita cursiva. Anglicismos sueltos en el cuerpo en Inter italic. */
+.list-item h2.en-title,
+.mobile-item h2.en-title { font-weight: 400; font-style: italic; }
+.detail-title.en-title { font-weight: 700; font-style: italic; }
 .en-term { font-family: var(--inter); font-style: italic; }
 
 * { box-sizing: border-box; }
