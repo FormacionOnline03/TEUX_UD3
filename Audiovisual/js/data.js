@@ -20,8 +20,8 @@ const RESOURCES = [
     nameSpanish: "Galería audiovisual de Near Future Laboratory",
     section: "Especulación y diseño de ficciones",
     materialType: "Galería audiovisual",
+    // La URL de origen ya no resuelve (404 en nearfuturelaboratory.com); se mantiene por ser la del documento fuente.
     relevance: "En esta galería audiovisual encontrarás artefactos diegéticos reales del laboratorio que popularizó el término.",
-    embedUrl: "https://nearfuturelaboratory.com/design-fiction-examples",
     link: "https://nearfuturelaboratory.com/design-fiction-examples"
   },
   {
@@ -110,7 +110,6 @@ const RESOURCES = [
     section: "Consecuencias no buscadas",
     materialType: "Artículo académico y demo",
     relevance: "Este artículo y demo conforman una herramienta académica que resulta ideal para explorar consecuencias indeseadas de productos con IA porque convierte a la temática de las consecuencias no buscadas en un instrumento de trabajo actual.",
-    embedUrl: "https://dl.acm.org/doi/10.1145/3613904.3642054",
     link: "https://dl.acm.org/doi/10.1145/3613904.3642054"
   },
   {
@@ -120,7 +119,6 @@ const RESOURCES = [
     section: "La política de los artefactos",
     materialType: "Artículo académico",
     relevance: "Este material constituye la tesis de Winner sobre la política de artefactos, pero actualizada a los sistemas de IA.",
-    embedUrl: "https://royalsocietypublishing.org/doi/10.1098/rsta.2024.0092",
     link: "https://royalsocietypublishing.org/doi/10.1098/rsta.2024.0092"
   },
   {
@@ -130,7 +128,6 @@ const RESOURCES = [
     section: "Casos reales de fallos",
     materialType: "Investigación periodística",
     relevance: "Este material constituye la investigación que dejó vislumbrar el sesgo algorítmico en la justicia penal estadounidense. Es un caso fundacional del periodismo de rendición de cuentas algorítmica.",
-    embedUrl: "https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing",
     link: "https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing"
   },
   {

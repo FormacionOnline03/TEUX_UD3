@@ -12,7 +12,6 @@ const RESOURCES = [
     yearContext: "Publicado en 2023 en Big Data & Society, vol. 10, n.º 2.",
     language: "Inglés",
     relevance: "Este trabajo introduce una de las ideas centrales de la unidad, que es que la inteligencia artificial no constituye un objeto único y claramente definido, sino un conjunto de tecnologías, prácticas y discursos cuya ambigüedad contribuye a reforzar su capacidad de influencia. Suchman sostiene que describir las materializaciones concretas de aquello que se denomina inteligencia artificial constituye una intervención crítica y no una simple tarea descriptiva. Esta perspectiva fundamenta el enfoque de utilizar la especulación para analizar futuros posibles desde el presente y evitar planteamientos propios de la futurología.",
-    embedUrl: "https://doi.org/10.1177/20539517231206794",
     link: "https://doi.org/10.1177/20539517231206794"
   },
   {
@@ -81,7 +80,6 @@ const RESOURCES = [
     yearContext: "Publicado en 2010 en Social Studies of Science, vol. 40, n.º 1.",
     language: "Inglés",
     relevance: "Este artículo introduce el concepto de \"prototipo diegético\", uno de los elementos centrales de esta unidad didáctica. Kirby analiza cómo determinadas tecnologías representadas en el cine, aunque todavía no existan, adquieren legitimidad y deseabilidad al integrarse de forma coherente en una narrativa. Esta aportación proporciona el fundamento teórico sobre el que posteriormente se desarrolla el enfoque metodológico del Design Fiction.",
-    embedUrl: "https://doi.org/10.1177/0306312709338325",
     link: "https://doi.org/10.1177/0306312709338325"
   },
   {
@@ -93,7 +91,6 @@ const RESOURCES = [
     yearContext: "Publicado en 2009 en ACM Interactions, vol. 16, n.º 3.",
     language: "Inglés",
     relevance: "Este ensayo constituye una de las primeras formulaciones del concepto de Design Fiction en la literatura académica. Sterling lo define como el uso deliberado de prototipos diegéticos para facilitar la comprensión de posibles cambios tecnológicos y favorecer la reflexión sobre ellos. Su lectura aporta el origen conceptual y terminológico del enfoque que se utiliza en esta unidad didáctica.",
-    embedUrl: "https://doi.org/10.1145/1516016.1516021",
     link: "https://doi.org/10.1145/1516016.1516021"
   },
   {
@@ -116,7 +113,6 @@ const RESOURCES = [
     yearContext: "Publicado en 2003 en Foresight, vol. 5, n.º 3, pp. 10-21.",
     language: "Inglés",
     relevance: "Este artículo presenta la formulación del cono de futuros que se utiliza en esta unidad didáctica como parte de un proceso más amplio de prospectiva estratégica. Voros organiza las categorías y explica el propósito de cada una.",
-    embedUrl: "https://figshare.swinburne.edu.au/articles/journal_contribution/A_generic_foresight_process_framework/26244815",
     link: "https://figshare.swinburne.edu.au/articles/journal_contribution/A_generic_foresight_process_framework/26244815"
   },
   {
@@ -140,7 +136,6 @@ const RESOURCES = [
     yearContext: "Presentada en 2010 en la University of Hawai‘i de Mānoa.",
     language: "Inglés",
     relevance: "Stuart Candy es uno de los principales impulsores del uso del cono de futuros en el ámbito del diseño y de los escenarios experienciales. Su investigación plantea que un escenario no constituye una predicción, sino una experiencia diseñada para explorar un futuro posible y favorecer la reflexión sobre las decisiones del presente. Esta perspectiva establece un puente entre el modelo conceptual del cono y los escenarios que desarrollarás a lo largo de esta unidad didáctica.",
-    embedUrl: "https://doi.org/10.13140/RG.2.1.1840.0248",
     link: "https://doi.org/10.13140/RG.2.1.1840.0248"
   },
   {
@@ -152,7 +147,6 @@ const RESOURCES = [
     yearContext: "Publicado en 1994 en Healthcare Forum Journal, vol. 37, n.º 2, pp. 23-29.",
     language: "Inglés",
     relevance: "Este artículo es uno de los antecedentes del modelo que desarrolló Joseph Voros. Los autores diferencian entre futuros posibles y futuros preferibles, una distinción que resulta fundamental para comprender que el futuro considerado más deseable no siempre coincide con el más probable. Esta tensión constituye uno de los ejes metodológicos de esta unidad didáctica.",
-    embedUrl: "https://pubmed.ncbi.nlm.nih.gov/10132155/",
     link: "https://pubmed.ncbi.nlm.nih.gov/10132155/"
   },
   {
@@ -190,7 +184,6 @@ const RESOURCES = [
     yearContext: "Publicado en 2009 en Futures Research Methodology (versión 3.0), de The Millennium Project.",
     language: "Original en inglés; existe también una versión en español (La rueda del futuro), publicada en la versión 1.0 de Futures Research Methodology del Millennium Project.",
     relevance: "Este capítulo presenta la rueda del futuro, el método en el que se inspira la cascada de consecuencias que se desarrolla en esta unidad didáctica. A partir de un cambio inicial, la herramienta organiza de forma progresiva sus efectos de primer, segundo y tercer orden, lo que facilita una exploración sistemática de las consecuencias indirectas. La principal aportación de este material consiste en ayudar a superar el análisis centrado exclusivamente en los efectos inmediatos y ampliar la reflexión hacia impactos menos evidentes.",
-    embedUrl: "https://www.millennium-project.org/publications/futures-research-methodology-version-3-0-2/",
     link: "https://www.millennium-project.org/publications/futures-research-methodology-version-3-0-2/"
   },
   {
@@ -213,7 +206,6 @@ const RESOURCES = [
     yearContext: "Publicado en 1936 en American Sociological Review, vol. 1, n.º 6.",
     language: "Inglés",
     relevance: "En este artículo sobre las consecuencias no previstas de la acción social, Merton explica que hay factores que provocan que una acción intencional produzca efectos que nadie había anticipado. Esta perspectiva recuerda que el resultado que se busca representa sólo una parte de las transformaciones que una intervención puede desencadenar.",
-    embedUrl: "https://doi.org/10.2307/2084615",
     link: "https://doi.org/10.2307/2084615"
   },
   {
@@ -248,7 +240,6 @@ const RESOURCES = [
     yearContext: "Publicado en 1999 en Social Studies of Science, vol. 29, n.º 3.",
     language: "Inglés",
     relevance: "Este artículo es una respuesta crítica a la tesis de Langdon Winner sobre la dimensión política de los artefactos. Joerges revisa el conocido caso de los puentes diseñados por Robert Moses y argumenta que la evidencia disponible no permite sostener algunas de las afirmaciones con la contundencia con la que suelen presentarse. Es un recurso que permite analizar el debate desde distintas perspectivas, fomenta una actitud crítica ante los casos ampliamente difundidos y refuerza la importancia de evaluar las evidencias que sustentan cada argumento.",
-    embedUrl: "https://doi.org/10.1177/030631299029003004",
     link: "https://doi.org/10.1177/030631299029003004"
   },
   {
@@ -283,7 +274,6 @@ const RESOURCES = [
     yearContext: "Publicado en 1992 en Shaping Technology / Building Society.",
     language: "Inglés",
     relevance: "Madeleine Akrich plantea que todo objeto técnico incorpora un \"guion\" que anticipa quién lo utilizará, de qué manera y bajo qué supuestos. Esta idea permite analizar cómo el diseño condiciona determinados comportamientos y excluye otros que son posibles. Es una herramienta especialmente útil para identificar las expectativas que un sistema proyecta sobre sus personas usuarias y reconocer a quién incluye o deja al margen desde su propia configuración.",
-    embedUrl: "https://mitpress.mit.edu/9780262521949/shaping-technology-building-society/",
     link: "https://mitpress.mit.edu/9780262521949/shaping-technology-building-society/"
   },
   {
@@ -317,7 +307,6 @@ const RESOURCES = [
     yearContext: "El Tribunal de Resoluciones Civiles de Columbia Británica (Canadá) dictó esta resolución (2024 BCCRT 149) el 14 de febrero de 2024.",
     language: "Inglés",
     relevance: "En esta resolución, un tribunal determinó que Air Canada era responsable de la información incorrecta proporcionada por su asistente conversacional y rechazó el argumento de que el sistema funcionara como una entidad independiente de la empresa. El caso permite comprender cómo se atribuye la responsabilidad jurídica cuando intervienen sistemas de inteligencia artificial y ofrece un ejemplo de cómo una consecuencia que se podría haber anticipado puede convertirse en un precedente legal.",
-    embedUrl: "https://canlii.ca/t/k2spq",
     link: "https://canlii.ca/t/k2spq"
   },
   {
@@ -344,7 +333,6 @@ const RESOURCES = [
     yearContext: "Recurso mantenido y actualizado de forma continua.",
     language: "Inglés",
     relevance: "Este repositorio contiene incidentes reales relacionados con sistemas de inteligencia artificial y los clasifica según su naturaleza y contexto. Constituye una herramienta especialmente útil para identificar riesgos que ya fueron documentados en tecnologías similares a las que estás analizando y facilita el desarrollo de escenarios fundamentados en casos reales. Consultar este recurso te permite transformar hipótesis abstractas en situaciones contrastadas y aporta evidencias para enriquecer el análisis prospectivo.",
-    embedUrl: "https://incidentdatabase.ai/",
     link: "https://incidentdatabase.ai/"
   },
   {
@@ -356,7 +344,6 @@ const RESOURCES = [
     yearContext: "Este procedimiento se inició en 2023 ante el Tribunal Federal del Distrito Norte de California.",
     language: "Inglés",
     relevance: "Este procedimiento judicial constituye un ejemplo especialmente significativo para analizar los sistemas automatizados de selección de personal. El demandante sostiene que fue descartado por motivos de edad en numerosos procesos de contratación como consecuencia del funcionamiento del sistema. El caso resulta relevante porque plantea la posible responsabilidad del proveedor tecnológico, además de la de las organizaciones que utilizan la herramienta. Se trata de un ejemplo de cómo una consecuencia inicialmente hipotética puede convertirse en un procedimiento judicial con implicaciones regulatorias.",
-    embedUrl: "https://www.courtlistener.com/docket/66831340/mobley-v-workday-inc/",
     link: "https://www.courtlistener.com/docket/66831340/mobley-v-workday-inc/"
   },
   {
@@ -368,7 +355,6 @@ const RESOURCES = [
     yearContext: "Material actualizado de forma continua.",
     language: "Inglés",
     relevance: "Este repositorio reúne casos judiciales en los que profesionales del ámbito jurídico presentaron ante los tribunales información generada por sistemas de inteligencia artificial que resultó ser falsa. Permite estudiar una cadena completa de consecuencias en la que el sistema genera información aparentemente verosímil, la persona usuaria confía en ella y el error termina produciendo efectos jurídicos y profesionales. Constituye una fuente especialmente útil para comprender cómo la delegación de tareas en sistemas automatizados puede desencadenar consecuencias de gran alcance.",
-    embedUrl: "https://www.damiencharlotin.com/hallucinations/",
     link: "https://www.damiencharlotin.com/hallucinations/"
   },
   {
@@ -394,7 +380,6 @@ const RESOURCES = [
     yearContext: "2018.",
     language: "Inglés",
     relevance: "Este caso constituye un ejemplo paradigmático de consecuencia de segundo orden. La publicación de un mapa de calor elaborado a partir de datos agregados de actividad física parecía una funcionalidad inocua, pero en determinadas zonas remotas permitió identificar bases militares y rutas de patrulla debido a que los únicos usuarios activos eran militares. El caso demuestra cómo la combinación de datos aparentemente anónimos puede revelar información sensible y pone de manifiesto la importancia de analizar los efectos indirectos derivados de las decisiones de diseño.",
-    embedUrl: "https://www.theguardian.com/world/2018/jan/28/fitness-tracking-app-gives-away-location-of-secret-us-army-bases",
     link: "https://www.theguardian.com/world/2018/jan/28/fitness-tracking-app-gives-away-location-of-secret-us-army-bases"
   },
   {
@@ -406,7 +391,6 @@ const RESOURCES = [
     yearContext: "2025.",
     language: "Inglés",
     relevance: "La aparición de un modelo de lenguaje desarrollado con un coste muy inferior al que se consideraba necesario cuestionó el supuesto de que únicamente unas pocas organizaciones podían afrontar la inversión requerida. Este episodio resulta especialmente útil para el trabajo con escenarios, ya que recuerda que incluso las hipótesis consideradas más sólidas pueden cambiar de forma repentina. Constituye un ejemplo de cómo un escenario inicialmente plausible puede materializarse antes de lo esperado y alterar las condiciones sobre las que se había construido el análisis.",
-    embedUrl: "https://newsletter.semianalysis.com/p/deepseek-debates",
     link: "https://newsletter.semianalysis.com/p/deepseek-debates"
   },
   {
@@ -418,7 +402,6 @@ const RESOURCES = [
     yearContext: "Publicado en 1991.",
     language: "Inglés",
     relevance: "Este texto fundacional sobre la computación ubicua es el punto de partida para comprender cómo la informática abandona progresivamente el ordenador como único lugar de interacción. Weiser plantea que las tecnologías más exitosas son aquellas que terminan por desaparecer del foco de atención y se integran de forma natural en el entorno cotidiano. Es una lectura que proporciona el marco conceptual para entender los objetos inteligentes y la interacción ambiental como una evolución de la informática tradicional.",
-    embedUrl: "https://doi.org/10.1038/scientificamerican0991-94",
     link: "https://doi.org/10.1038/scientificamerican0991-94"
   },
   {
@@ -453,7 +436,6 @@ const RESOURCES = [
     yearContext: "Este material se publicó en el año 2000.",
     language: "Inglés",
     relevance: "Este es uno de los primeros trabajos que sistematiza la interacción implícita (aquella que el sistema deduce a partir del contexto sin necesidad de recibir instrucciones explícitas). Resulta especialmente relevante porque explica cómo el diseño desplaza parte del control desde la persona usuaria hacia el sistema y cuáles son las implicaciones de esa transferencia para la experiencia de uso.",
-    embedUrl: "https://doi.org/10.1007/BF01324126",
     link: "https://doi.org/10.1007/BF01324126"
   },
   {
@@ -465,7 +447,6 @@ const RESOURCES = [
     yearContext: "Este artículo se publicó en 1994.",
     language: "Inglés",
     relevance: "Este artículo es la referencia clásica que define el continuo entre realidad física y realidad virtual e introduce las categorías de realidad aumentada y realidad mixta. Los contenidos de esta unidad didáctica utilizan este marco para situar las distintas tecnologías de realidad extendida y comprender que no constituyen categorías aisladas, sino posiciones dentro de un mismo continuo de interacción.",
-    embedUrl: "https://globals.ieice.org/en_transactions/information/10.1587/e77-d_12_1321/_p",
     link: "https://globals.ieice.org/en_transactions/information/10.1587/e77-d_12_1321/_p"
   },
   {
@@ -477,7 +458,6 @@ const RESOURCES = [
     yearContext: "Este material se publicó en 2008 en Design Issues, 24(3), 72-84.",
     language: "Inglés",
     relevance: "Este texto traslada el concepto de interacción implícita desde la investigación tecnológica al ámbito del diseño de experiencia de usuario. Los autores proponen principios para que los sistemas actúen a partir del contexto sin resultar invasivos ni generar sensación de pérdida de control. Complementa el trabajo de Schmidt y aporta herramientas proyectuales directamente aplicables al diseño de productos digitales.",
-    embedUrl: "https://doi.org/10.1162/desi.2008.24.3.72",
     link: "https://doi.org/10.1162/desi.2008.24.3.72"
   },
   {
@@ -489,7 +469,6 @@ const RESOURCES = [
     yearContext: "Este capítulo se publicó en 1997 en Beyond Calculation: The Next Fifty Years of Computing.",
     language: "Inglés",
     relevance: "En este texto se formula el concepto original de tecnología calma. Los autores defienden que la tecnología debe desplazarse entre el centro y la periferia de la atención según las necesidades de cada momento, sin competir continuamente por captar el foco de las personas usuarias. Esta idea constituye el fundamento teórico del libro de Amber Case y ofrece el soporte conceptual de los patrones de interacción ambiental que esta unidad didáctica propone analizar.",
-    embedUrl: "https://link.springer.com/book/10.1007/978-1-4612-0685-9",
     link: "https://link.springer.com/book/10.1007/978-1-4612-0685-9"
   },
   {
@@ -501,7 +480,6 @@ const RESOURCES = [
     yearContext: "Este artículo se publicó en 2019 en Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (pp. 1-15).",
     language: "Inglés",
     relevance: "Este artículo revisa críticamente las definiciones de realidad mixta y realidad extendida que han surgido desde la propuesta de Milgram y Kishino. Los autores muestran cómo la evolución tecnológica ha difuminado las fronteras entre estas categorías y proponen un marco actualizado para describir experiencias inmersivas. Ofrece una terminología más precisa y adaptada a los desarrollos contemporáneos en interacción y diseño de experiencias inmersivas.",
-    embedUrl: "https://doi.org/10.1145/3290605.3300767",
     link: "https://doi.org/10.1145/3290605.3300767"
   }
 ];
