@@ -371,6 +371,7 @@ const RESOURCES = [
     yearContext: "Este procedimiento se inició en 2023 ante el Tribunal del Distrito Sur de Nueva York.",
     language: "Inglés",
     relevance: "Más allá del debate sobre los derechos de propiedad intelectual asociados al entrenamiento de modelos de inteligencia artificial, este procedimiento ha generado una consecuencia regulatoria de especial interés cuando la obligación judicial de conservar determinados registros de conversaciones de personas usuarias entró en tensión con los principios europeos de minimización y protección de datos. El caso constituye un ejemplo de cómo una controversia jurídica puede producir efectos que trascienden el conflicto inicial y afectar a distintos marcos regulatorios.",
+    embedUrl: "https://nytco-assets.nytimes.com/2023/12/NYT_Complaint_Dec2023.pdf",
     links: [
       { label: "Ver expediente judicial", url: "https://www.courtlistener.com/docket/68117049/the-new-york-times-company-v-microsoft-corporation/" },
       { label: "Ver demanda original (PDF)", url: "https://nytco-assets.nytimes.com/2023/12/NYT_Complaint_Dec2023.pdf" }
