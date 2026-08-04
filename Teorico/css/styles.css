@@ -31,10 +31,7 @@
   --ink-faint: #a3a3a3;
 }
 
-/* Textos en inglés: en la lista (columna izquierda) solo cursiva, sin negrita; en la ficha de detalle (columna derecha) se mantiene negrita cursiva. Anglicismos sueltos en el cuerpo en Inter italic. */
-/* Solo existe el archivo Balto Bold Italic: pedir font-style:italic en peso 400 haría que el navegador igual use ese archivo en negrita (es la única cara itálica registrada), así que la cursiva del peso regular se simula inclinando el texto. */
-.list-item h2.en-title,
-.mobile-item h2.en-title { font-weight: 400; font-style: normal; transform: skewX(-8deg); transform-origin: left; }
+/* Textos en inglés: en la lista (columna izquierda) todos los títulos van igual, sin cursiva; en la ficha de detalle (columna derecha) se mantiene negrita cursiva. Anglicismos sueltos en el cuerpo en Inter italic. */
 .detail-title.en-title { font-weight: 700; font-style: italic; }
 .en-term { font-family: var(--inter); font-style: italic; }
 
