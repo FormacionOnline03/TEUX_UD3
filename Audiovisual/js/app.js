@@ -37,7 +37,7 @@ function renderDesktopList() {
   el.innerHTML = RESOURCES.map((style) => `
     <div class="list-item ${style.id === selectedId ? "is-selected" : ""}" data-id="${style.id}">
       <p class="num">${pad(style.id)}</p>
-      <h2>${style.nameSpanish}</h2>
+      <h2 class="${style.titleEs ? "" : "en-title"}">${style.nameSpanish}</h2>
     </div>
   `).join("");
   el.querySelectorAll(".list-item").forEach((node) => {
@@ -51,7 +51,7 @@ function renderDesktopDetail() {
   const image = imageMarkup(style);
   el.innerHTML = `
     ${image ? `<div class="detail-image" key="${style.id}">${image}</div>` : ""}
-    <h2 class="detail-title">${style.name}</h2>
+    <h2 class="detail-title ${style.titleEs ? "" : "en-title"}">${style.name}</h2>
     <div class="detail-meta">
       <div>
         <div class="meta-field"><p class="label">Tema principal</p><p class="value">${style.section}</p></div>
@@ -77,7 +77,7 @@ function renderMobile() {
       ${RESOURCES.map((s) => `
         <div class="mobile-item ${s.id === selectedId ? "is-selected" : ""}" data-id="${s.id}">
           <p class="num">${pad(s.id)}</p>
-          <h2>${s.name}</h2>
+          <h2 class="${s.titleEs ? "" : "en-title"}">${s.name}</h2>
         </div>
       `).join("")}
     </div>

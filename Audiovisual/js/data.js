@@ -18,11 +18,12 @@ const RESOURCES = [
     id: 2,
     name: "Galería audiovisual de Near Future Laboratory",
     nameSpanish: "Galería audiovisual de Near Future Laboratory",
+    titleEs: true,
     section: "Especulación y diseño de ficciones",
     materialType: "Galería audiovisual",
-    // La URL de origen ya no resuelve (404 en nearfuturelaboratory.com); se mantiene por ser la del documento fuente.
     relevance: "En esta galería audiovisual encontrarás artefactos diegéticos reales del laboratorio que popularizó el término.",
-    link: "https://nearfuturelaboratory.com/design-fiction-examples"
+    embedUrl: "https://nearfuturelaboratory.com/what-is-design-fiction/",
+    link: "https://nearfuturelaboratory.com/what-is-design-fiction/"
   },
   {
     id: 3,
@@ -30,7 +31,7 @@ const RESOURCES = [
     nameSpanish: "Unlocking the Future with Design Fiction | Julian Bleecker",
     section: "Especulación y diseño de ficciones",
     materialType: "Pódcast",
-    relevance: "En este pódcast, Julian Bleecker (el autor del ensayo fundacional sobre Design Fiction) habla del origen y el uso de este método.",
+    relevance: "En este pódcast, Julian Bleecker (el autor del ensayo fundacional sobre <span class=\"en-term\">Design Fiction</span>) habla del origen y el uso de este método.",
     embedUrl: "https://www.youtube.com/embed/ax6d8LXZkcg",
     link: "https://www.youtube.com/watch?v=ax6d8LXZkcg"
   },
@@ -38,9 +39,10 @@ const RESOURCES = [
     id: 4,
     name: "Presentación de Speculative Everything | Anthony Dunne y Fiona Raby",
     nameSpanish: "Presentación de Speculative Everything | Anthony Dunne y Fiona Raby",
+    titleEs: true,
     section: "Especulación y diseño de ficciones",
     materialType: "Vídeo",
-    relevance: "Los autores de Speculative Everything presentan su trabajo en el que toman al diseño como pregunta y no como solución.",
+    relevance: "Los autores de <span class=\"en-term\">Speculative Everything</span> presentan su trabajo en el que toman al diseño como pregunta y no como solución.",
     embedUrl: "https://www.youtube.com/embed/kmibm20UsoA",
     link: "https://www.youtube.com/watch?v=kmibm20UsoA"
   },
@@ -48,6 +50,7 @@ const RESOURCES = [
     id: 5,
     name: "Glosario del cono de futuros | UN Global Pulse",
     nameSpanish: "Glosario del cono de futuros | UN Global Pulse",
+    titleEs: true,
     section: "El cono de futuros",
     materialType: "Glosario con infografías",
     relevance: "En este glosario con infografías, podrás ver una visión institucional del cono de futuros en cinco minutos.",
@@ -68,6 +71,7 @@ const RESOURCES = [
     id: 7,
     name: "El cono de Voros capa a capa",
     nameSpanish: "El cono de Voros capa a capa",
+    titleEs: true,
     section: "El cono de futuros",
     materialType: "Pódcast (una hora)",
     relevance: "En este pódcast de una hora se desarma el cono de Voros capa por capa en una conversación que resulta muy útil cuando el diagrama se entiende, pero aún no se sabe operar.",
@@ -85,13 +89,14 @@ const RESOURCES = [
     link: "https://www.youtube.com/watch?v=wEldDuFcs_4"
   },
   {
-    // El documento de origen no incluye una URL para este recurso; no se ha inventado ninguna.
     id: 9,
     name: "Oops, Our Bad",
     nameSpanish: "Oops, Our Bad",
     section: "Consecuencias no buscadas",
     materialType: "Pódcast (media hora)",
-    relevance: "Este pódcast revisa en media hora casos históricos de consecuencias no buscadas. Es muy interesante de escuchar porque cada caso se explora desde la narrativa. La visión que ofrece este recurso es ideal para tener un primer contacto con la temática de las consecuencias no buscadas."
+    relevance: "Este pódcast revisa en media hora casos históricos de consecuencias no buscadas. Es muy interesante de escuchar porque cada caso se explora desde la narrativa. La visión que ofrece este recurso es ideal para tener un primer contacto con la temática de las consecuencias no buscadas.",
+    embedUrl: "https://open.spotify.com/embed/episode/7dx6ObGQQCCRbWlvqAiJFT",
+    link: "https://open.spotify.com/episode/7dx6ObGQQCCRbWlvqAiJFT"
   },
   {
     id: 10,

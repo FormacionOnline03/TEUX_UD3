@@ -56,7 +56,7 @@ const RESOURCES = [
     materialType: "Recursos metodológicos",
     yearContext: "Material publicado por el Institute for the Future (IFTF) de Palo Alto.",
     language: "Inglés",
-    relevance: "Estos recursos amplían el trabajo sobre la identificación de señales débiles y tendencias que has realizado en la segunda unidad didáctica. En este material, las señales recopiladas durante el proceso de scanning se convierten en el punto de partida para la construcción de escenarios futuros. Es un recurso que proporciona un marco metodológico para relacionar fuerzas de cambio, señales emergentes y posibles evoluciones de un sistema.",
+    relevance: "Estos recursos amplían el trabajo sobre la identificación de señales débiles y tendencias que has realizado en la segunda unidad didáctica. En este material, las señales recopiladas durante el proceso de <span class=\"en-term\">scanning</span> se convierten en el punto de partida para la construcción de escenarios futuros. Es un recurso que proporciona un marco metodológico para relacionar fuerzas de cambio, señales emergentes y posibles evoluciones de un sistema.",
     embedUrl: "https://legacy.iftf.org/what-we-do/foresight-tools/signals/",
     link: "https://legacy.iftf.org/what-we-do/foresight-tools/signals/"
   },
@@ -79,7 +79,7 @@ const RESOURCES = [
     materialType: "Artículo académico",
     yearContext: "Publicado en 2010 en Social Studies of Science, vol. 40, n.º 1.",
     language: "Inglés",
-    relevance: "Este artículo introduce el concepto de \"prototipo diegético\", uno de los elementos centrales de esta unidad didáctica. Kirby analiza cómo determinadas tecnologías representadas en el cine, aunque todavía no existan, adquieren legitimidad y deseabilidad al integrarse de forma coherente en una narrativa. Esta aportación proporciona el fundamento teórico sobre el que posteriormente se desarrolla el enfoque metodológico del Design Fiction.",
+    relevance: "Este artículo introduce el concepto de \"prototipo diegético\", uno de los elementos centrales de esta unidad didáctica. Kirby analiza cómo determinadas tecnologías representadas en el cine, aunque todavía no existan, adquieren legitimidad y deseabilidad al integrarse de forma coherente en una narrativa. Esta aportación proporciona el fundamento teórico sobre el que posteriormente se desarrolla el enfoque metodológico del <span class=\"en-term\">Design Fiction</span>.",
     link: "https://doi.org/10.1177/0306312709338325"
   },
   {
@@ -90,7 +90,7 @@ const RESOURCES = [
     materialType: "Ensayo publicado en una revista científica",
     yearContext: "Publicado en 2009 en ACM Interactions, vol. 16, n.º 3.",
     language: "Inglés",
-    relevance: "Este ensayo constituye una de las primeras formulaciones del concepto de Design Fiction en la literatura académica. Sterling lo define como el uso deliberado de prototipos diegéticos para facilitar la comprensión de posibles cambios tecnológicos y favorecer la reflexión sobre ellos. Su lectura aporta el origen conceptual y terminológico del enfoque que se utiliza en esta unidad didáctica.",
+    relevance: "Este ensayo constituye una de las primeras formulaciones del concepto de <span class=\"en-term\">Design Fiction</span> en la literatura académica. Sterling lo define como el uso deliberado de prototipos diegéticos para facilitar la comprensión de posibles cambios tecnológicos y favorecer la reflexión sobre ellos. Su lectura aporta el origen conceptual y terminológico del enfoque que se utiliza en esta unidad didáctica.",
     link: "https://doi.org/10.1145/1516016.1516021"
   },
   {
@@ -101,7 +101,7 @@ const RESOURCES = [
     materialType: "Libro",
     yearContext: "La edición revisada fue publicada en 2005 por MIT Press; la primera edición se publicó en 1999.",
     language: "Inglés",
-    relevance: "Este es uno de los textos fundacionales del diseño crítico y antecede a Speculative Everything. Dunne desarrolla conceptos como la distinción entre diseño afirmativo y diseño crítico, que establecen las bases conceptuales del diseño especulativo.",
+    relevance: "Este es uno de los textos fundacionales del diseño crítico y antecede a <span class=\"en-term\">Speculative Everything</span>. Dunne desarrolla conceptos como la distinción entre diseño afirmativo y diseño crítico, que establecen las bases conceptuales del diseño especulativo.",
     link: "https://www.amazon.es/Hertzian-Tales-Electronic-Aesthetic-Experience/dp/0262042320"
   },
   {
@@ -302,6 +302,7 @@ const RESOURCES = [
     id: 27,
     name: "Moffatt vs. Air Canada",
     nameSpanish: "Moffatt vs. Air Canada",
+    titleEs: true,
     section: "Cuando la consecuencia ya ocurrió",
     materialType: "Resolución judicial",
     yearContext: "El Tribunal de Resoluciones Civiles de Columbia Británica (Canadá) dictó esta resolución (2024 BCCRT 149) el 14 de febrero de 2024.",
@@ -313,6 +314,7 @@ const RESOURCES = [
     id: 28,
     name: "Crisis de los términos de servicio de Adobe",
     nameSpanish: "Crisis de los términos de servicio de Adobe",
+    titleEs: true,
     section: "Cuando la consecuencia ya ocurrió",
     materialType: "Cobertura de prensa especializada y comunicados institucionales",
     yearContext: "Junio de 2024.",
@@ -339,6 +341,7 @@ const RESOURCES = [
     id: 30,
     name: "Mobley vs. Workday",
     nameSpanish: "Mobley vs. Workday",
+    titleEs: true,
     section: "Cuando la consecuencia ya ocurrió",
     materialType: "Litigio en curso",
     yearContext: "Este procedimiento se inició en 2023 ante el Tribunal Federal del Distrito Norte de California.",
@@ -350,6 +353,7 @@ const RESOURCES = [
     id: 31,
     name: "Base de datos de alucinaciones de IA en tribunales | Damien Charlotin (HEC Paris)",
     nameSpanish: "Base de datos de alucinaciones de IA en tribunales | Damien Charlotin (HEC Paris)",
+    titleEs: true,
     section: "Cuando la consecuencia ya ocurrió",
     materialType: "Base de datos en línea de acceso abierto",
     yearContext: "Material actualizado de forma continua.",
@@ -361,6 +365,7 @@ const RESOURCES = [
     id: 32,
     name: "The New York Times vs. OpenAI y Microsoft",
     nameSpanish: "The New York Times vs. OpenAI y Microsoft",
+    titleEs: true,
     section: "Cuando la consecuencia ya ocurrió",
     materialType: "Litigio en curso sobre propiedad intelectual",
     yearContext: "Este procedimiento se inició en 2023 ante el Tribunal del Distrito Sur de Nueva York.",
@@ -375,6 +380,7 @@ const RESOURCES = [
     id: 33,
     name: "El mapa de calor global de Strava",
     nameSpanish: "El mapa de calor global de Strava",
+    titleEs: true,
     section: "Cuando la consecuencia ya ocurrió",
     materialType: "Caso documentado en prensa internacional",
     yearContext: "2018.",
@@ -386,6 +392,7 @@ const RESOURCES = [
     id: 34,
     name: "DeepSeek y la caída de un supuesto de coste",
     nameSpanish: "DeepSeek y la caída de un supuesto de coste",
+    titleEs: true,
     section: "Cuando la consecuencia ya ocurrió",
     materialType: "Caso de industria documentado mediante cobertura técnica y periodística",
     yearContext: "2025.",

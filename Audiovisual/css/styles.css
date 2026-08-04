@@ -12,16 +12,28 @@
   font-style: normal;
   font-display: swap;
 }
+@font-face {
+  font-family: 'Balto';
+  src: url('../fonts/Balto-BoldItalic.woff2') format('woff2');
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
 
 :root {
   --serif: 'Balto', Georgia, serif;
   --sans: 'Balto', 'Helvetica Neue', Arial, sans-serif;
+  --inter: 'Inter', 'Helvetica Neue', Arial, sans-serif;
   --bg: #fafafa;
   --border: #e5e5e5;
   --ink: #171717;
   --ink-muted: #525252;
   --ink-faint: #a3a3a3;
 }
+
+/* Textos en inglés: título del recurso en Balto bold italic, anglicismos sueltos en el cuerpo en Inter italic */
+.en-title { font-weight: 700; font-style: italic; }
+.en-term { font-family: var(--inter); font-style: italic; }
 
 * { box-sizing: border-box; }
 html, body { height: 100%; margin: 0; }
